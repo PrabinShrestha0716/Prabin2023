@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabin2023
 - 👀 I’m interested in learning Java programming
-- 🌱 I’m currently learning Java in Eclipse
+- 🌱 I’m currently learning Java
 
 
 <!---
